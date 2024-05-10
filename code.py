@@ -1,2 +1,2 @@
-print("hello") 
-print("This is LP2 practical")
+print('hello') 
+print('This is LP2 practical')
